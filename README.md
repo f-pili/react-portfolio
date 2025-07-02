@@ -335,15 +335,6 @@ Optimized Vite configuration with:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-### Development Guidelines
-- Follow TypeScript best practices
-- Use Tailwind CSS for styling
-- Write meaningful commit messages
-- Add proper error handling
-- Include loading states for async operations
-- Ensure responsive design
-- Test on both light and dark themes
-
 ## 📝 License
 
 This project is licensed under the MIT License.
