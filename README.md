@@ -38,7 +38,7 @@ This is a comprehensive portfolio and service management application that serves
 - **Admin Dashboard**: Overview of key metrics and recent activities
 - **Service Management**: CRUD operations for services with rich forms
 - **Request Management**: View and manage client service requests
-- **User Management**: Monitor user accounts and activities
+- **User Management**: Monitor user accounts and activities (structure ready)
 - **Content Management**: Blog post management (structure ready)
 
 ### 🔧 Technical Features
