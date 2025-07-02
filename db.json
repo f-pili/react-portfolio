@@ -1,0 +1,159 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Filippo Pili",
+      "email": "admin@fpili.me",
+      "password": "admin123",
+      "role": "admin",
+      "avatar": "src/images/favicon/web-app-manifest-192x192.png",
+      "createdAt": "2025-06-30T06:03:38.791Z"
+    },
+    {
+      "id": 2,
+      "name": "Demo Client",
+      "email": "client@fpili.me",
+      "password": "client123",
+      "role": "client",
+      "avatar": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&dpr=1",
+      "createdAt": "2025-06-30T08:03:44.791Z"
+    }
+  ],
+  "services": [
+    {
+      "title": "Financial Analysis",
+      "description": "Strategic financial analysis to support informed business decisions.",
+      "fullDescription": "This service focuses on managing and developing people within the organization. It helps align individual growth with company objectives through structured feedback, performance tracking, and conflict resolution—promoting engagement, motivation, and team cohesion.",
+      "price": 2000,
+      "category": "Finance",
+      "duration": "3-4 weeks",
+      "image": "https://images.pexels.com/photos/7172830/pexels-photo-7172830.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "tags": [
+        "HR",
+        "People Development",
+        "Team Management",
+        "Employee Engagement",
+        "Performance Review"
+      ],
+      "featured": true,
+      "id": 1
+    },
+    {
+      "title": "People Management",
+      "description": "Effective team coordination and development for business alignment.",
+      "fullDescription": "This service focuses on managing and developing people within the organization. It helps align individual growth with company objectives through structured feedback, performance tracking, and conflict resolution—promoting engagement, motivation, and team cohesion.",
+      "price": 2500,
+      "category": "People",
+      "duration": "3-4 weeks",
+      "image": "https://images.pexels.com/photos/7108452/pexels-photo-7108452.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "tags": [
+        "HR",
+        "People Development",
+        "Team Management",
+        "Employee Engagement",
+        "Performance Review"
+      ],
+      "featured": true,
+      "id": 2
+    },
+    {
+      "title": "Data Analysis",
+      "description": "Advanced data analytics to drive data-informed strategies.",
+      "fullDescription": "This service specializes in analyzing large sets of data to uncover patterns—trends, and opportunities. It empowers decision-makers by translating complex datasets into actionable insights that support business objectives and strategic initiatives.",
+      "price": 1000,
+      "category": "Data",
+      "duration": "2-3 weeks",
+      "image": "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "tags": [
+        "Data Analytics",
+        "Insights",
+        "Trends",
+        "Statistics",
+        "Predictive",
+        "Visualization"
+      ],
+      "featured": false,
+      "id": 3
+    },
+    {
+      "title": "Process Optimization",
+      "description": "Workflow analysis and improvement for operational efficiency.",
+      "fullDescription": "This service aims to streamline business operations by identifying inefficiencies, automating tasks, and redesigning processes. It ensures better resource allocation, cost reduction, and scalable solutions aligned with long-term goals.",
+      "price": 3900,
+      "category": "Processes",
+      "duration": "6-8 weeks",
+      "image": "https://images.pexels.com/photos/1181311/pexels-photo-1181311.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "tags": [
+        "Operations",
+        "Process Design",
+        "Optimization",
+        "Efficiency",
+        "Workflow",
+        "Automation"
+      ],
+      "featured": true,
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "What Makes a Service Truly Valuable?",
+      "content": "In today’s fast-moving work environments, offering a service isn’t enough. What truly matters is how that service is delivered. Over the years, I’ve developed a clear method to ensure that each project I take on is structured, measurable, and impactful. I always start by designing a tailored approach. No two clients are alike, so I never rely on ready-made templates. I analyze the specific context, challenges, and objectives to define a method that works for that unique situation.",
+      "excerpt": "Real value comes from how a service is delivered, not just what it delivers.",
+      "author": "Filippo Pili",
+      "publishedAt": "2025-06-28T00:00:00.000Z",
+      "image": "https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "tags": [
+        "Project Management",
+        "Optimization",
+        "Value"
+      ],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Beyond the Task: The Hidden Value Behind Every Service",
+      "content": "When clients ask me what they’ll get from a service, they usually expect something tangible like a dashboard, a report, or a new process. But over time, they often realize that the real value isn’t just in what’s delivered—it’s in how it’s delivered. From the start, I take the time to understand the people and the structure I’m working with. I don’t assume what works for one team will work for another. I design solutions that adapt to the way you think and operate.",
+      "excerpt": "Behind every service lies a method designed for impact and sustainability.",
+      "author": "Filippo Pili",
+      "publishedAt": "2025-06-18T00:00:00.000Z",
+      "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&dpr=1",
+      "tags": [
+        "Task",
+        "Strategy",
+        "Best Practices"
+      ],
+      "featured": false
+    }
+  ],
+  "requests": [
+    {
+      "name": "Filippo Pili",
+      "email": "fil@icloud.com",
+      "serviceType": "Financial Analysis",
+      "message": "Test di una richiesta",
+      "status": "pending",
+      "createdAt": "2025-06-30T11:33:21.888Z",
+      "id": 1
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Michael Chen",
+      "company": "TechStart Inc.",
+      "message": "Outstanding work! The team delivered exactly what we needed on time and within budget.",
+      "rating": 5,
+      "avatar": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&dpr=1"
+    },
+    {
+      "id": 2,
+      "name": "Lisa Rodriguez",
+      "company": "Creative Studio",
+      "message": "Professional service with excellent attention to detail. Highly recommended!",
+      "rating": 5,
+      "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&dpr=1"
+    }
+  ]
+}
