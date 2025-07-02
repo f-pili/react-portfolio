@@ -346,18 +346,7 @@ Optimized Vite configuration with:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Portfolio Team**
-- Professional portfolio and service management solution
-- Built with modern web technologies
-- Designed for scalability and maintainability
-
-## 📞 Support
-
-For support, email support@fpili.me or create an issue in the repository.
+This project is licensed under the MIT License.
 
 ---
 
